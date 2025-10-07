@@ -1,1 +1,2 @@
-print(34)
+p = input("ismingizning kiriting >>>>>>")
+print("sizning ismingiz",p.title())
