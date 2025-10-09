@@ -1,2 +1,3 @@
+a = "kot"
 p = input("ismingizning kiriting >>>>>>")
-print("sizning ismingiz",p.title())
+print("sizning ismingiz",p,a)
