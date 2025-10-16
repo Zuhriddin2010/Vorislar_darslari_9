@@ -9,7 +9,7 @@
 # y = 3*x**6 - 6*x**2 - 7
 # print("y =", y)
 
- a = int(input("a sonni kiriting: a = "))
- b = int(input("b sonni kiriting: b = "))
- c = (a+b)/2
- print("c =", c)
+a = int(input("a sonni kiriting: a = "))
+b = int(input("b sonni kiriting: b = "))
+c = (a+b)/2
+print("c =", c)
