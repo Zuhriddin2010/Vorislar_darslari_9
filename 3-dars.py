@@ -1,4 +1,4 @@
-# ism = "Umidjon kot"
+# ism = "salom dunyo"
 
 # ism1 = input("Ismingiz nima? : ")
 # print("Salom hurmatli, " , ism1)
