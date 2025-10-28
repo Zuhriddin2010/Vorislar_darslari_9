@@ -9,4 +9,4 @@ def main():
         print(f"{son} toql son.")
 
 if __name__ == "__main__":
-    main()
+    main() 
