@@ -42,4 +42,4 @@
 
 # txt = "Company12" # Agar faqat harflar (A–Z, a–z) va raqamlar (0–9) bo‘lsa → True   # Agar bo‘sh joy, belgilar (!, @, #, va hokazo) bo‘lsa → False
 # x = txt.isalnum()
-# print(x)git config --global user.email "zuhriddin qadamboyev38@example.com"
+# print(x)

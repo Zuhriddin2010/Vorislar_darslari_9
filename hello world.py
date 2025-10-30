@@ -1,0 +1,3 @@
+# ...bu cament...
+print("Hello, World!")
+# ...bu ham cament
