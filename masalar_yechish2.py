@@ -17,3 +17,4 @@
 # print(sonlar)
 
 print("hello")
+#hbjbjbjbjbjbjbjd
