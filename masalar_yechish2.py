@@ -15,3 +15,4 @@ sonlar = list(range(a+1,b))
 
 sonlar.sort(reverse=True)
 print(sonlar)
+#tttrtrt
