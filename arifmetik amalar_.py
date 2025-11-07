@@ -7,7 +7,7 @@
 # x = txt.casefold()
 # print(x)
 
-# txt = "20 ta probel tashlab yoradi."
+# txt = "20 ta probel tashlab yoradi."                    
 # x = txt.center(20)
 # print(x)
 
