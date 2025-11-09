@@ -15,7 +15,7 @@
 
 # a = "    Hello World   assalomu alaykum    "
 # print(a.capitalize())
-# print(a.strip())
+# print(a.strip())      
 # print(a.count("a"))  # Matnda nechta 'a' harfi borligini hisoblaydi                
 # print(a.startswith("assalomu"))  # Matn 'assalomu' so'zi bilan boshlanadimi
 # print(a.endswith("ovich"))  # Matn 'ovich' so'zi bilan tugaydimi
