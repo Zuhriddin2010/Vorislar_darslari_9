@@ -10,7 +10,7 @@
 # print(FIO.capitalize())  # Faqat birinchi harfni katta qiladi
 # print(FIO.replace("a", "o"))  # Matndagi barcha 'a'
 # # harflarini 'o' harfiga almashtiradi
-# print(FIO.find("umid"))  # Matnda 'umid' so'zining   
+# print(FIO.find("umid"))  # Matnda 'umid' so'zining      
 
 
 # a = "    Hello World   assalomu alaykum    "
