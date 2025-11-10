@@ -10,7 +10,7 @@ print(5-2)
 
 # ko'paytirish
 print(5*2)
-
+                       
 # bo'lish
 print(5/2)
 
