@@ -7,7 +7,7 @@
 
 # x = float(input("x sonni kiriting: x = "))
 # y = 3*x**6 - 6*x**2 - 7
-# print("y =", y)
+# print("y =", y)     
 
 a = int(input("a sonni kiriting: a = "))
 b = int(input("b sonni kiriting: b = "))
