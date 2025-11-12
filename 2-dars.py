@@ -6,7 +6,7 @@ print("salom dunyo 2")
 print(5+2)
 
 # ayirish
-print(5-2)
+print(5-2)                    
 
 # ko'paytirish
 print(5*2)
