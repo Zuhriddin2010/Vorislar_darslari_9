@@ -8,7 +8,7 @@ print(5+2)
 # ayirish                   
 print(5-2)                    
 
-# ko'paytirish
+# ko'paytirish                   
 print(5*2)
                        
 # bo'lish
