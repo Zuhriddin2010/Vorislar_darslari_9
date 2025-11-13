@@ -6,7 +6,7 @@ def main():
     if son % 2 == 0:
         print(f"{son} juft son.")
     else:
-        print(f"{son} toql son.")
+        print(f"{son} toql son.")      
 
 if __name__ == "__main__":
     main() 
