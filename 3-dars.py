@@ -4,7 +4,7 @@
 # print("Salom hurmatli, " , ism1)
 # n = int(input("son kiriting "))
 # print((n)*2)          
-
+                          
 # x = float(input("x sonni kiriting: x = "))           
 # y = 3*x**6 - 6*x**2 - 7
 # print("y =", y)     
