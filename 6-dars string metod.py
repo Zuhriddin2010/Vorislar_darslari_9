@@ -1,7 +1,7 @@
 # ism = "umid"
 # familiya = "aliyev"
 # ochestva = "abrorovich"
-# FIO = f"assalomu alaykum {ism} {familiya} {ochestva}"
+# FIO = f"assalomu alaykum {ism} {familiya} {ochestva}"                             
 
 # print(FIO)
 # print(FIO.upper())  # Hammasini katta harfga o'zgartiradi
