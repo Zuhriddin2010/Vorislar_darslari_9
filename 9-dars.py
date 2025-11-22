@@ -1,4 +1,4 @@
-def main():
+def main():                                                   
     # Foydalanuvchidan son kiritishni so'raymiz
     son = int(input("Iltimos, biror butun son kiriting: "))
     
