@@ -5,3 +5,4 @@ print("Siz " + str(2025 - b) + " yoshdasiz")
       
        
         
+                                      
