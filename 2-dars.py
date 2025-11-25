@@ -19,7 +19,7 @@ print(5//2)
 
 # darajaga ko'tarish
 print(5**2)
-
+                       
 # qoldiqni aniqlash
 print(5%2)
 
