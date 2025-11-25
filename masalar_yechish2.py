@@ -2,7 +2,7 @@
 # b = int(input("b ga son kiriting >>>>>>>>>"))
 
 # g = list(range(a,b+1 ))
-# d = list(range(b,a+1))
+# d = list(range(b,a+1))                                                                   
 
 
 # for son in g,d:
