@@ -1,6 +1,6 @@
 # bu cament 
 print("salom \n dunyo")                      
-print("salom dunyo 2")
+print("salom dunyo 2")                      
 
 # Arifmetik amallar                    
 print(5+2)                                               
