@@ -3,7 +3,7 @@ print("salom \n dunyo")
 print("salom dunyo 2")
 
 # Arifmetik amallar                    
-print(5+2)
+print(5+2)                                               
                     
 # ayirish                   
 print(5-2)                    
