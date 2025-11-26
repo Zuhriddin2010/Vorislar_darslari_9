@@ -1,7 +1,7 @@
 # ism = "salom dunyo"
 
 # ism1 = input("Ismingiz nima? : ")
-# print("Salom hurmatli, " , ism1)                  
+# print("Salom hurmatli, " , ism1)                                                 
 # n = int(input("son kiriting "))
 # print((n)*2)          
                           
