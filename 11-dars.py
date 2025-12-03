@@ -11,7 +11,7 @@
 
 # #familiyalar.append("teshaboyev")        # xatolik beradi, type ga ya`ni element qo`lish bo`lmaydi
 # #print(familiyalar)
-
+                                  
 # o_familiyalar = list(familiyalar)
 # print(o_familiyalar)  # typeni listga o`tiramiz
 
