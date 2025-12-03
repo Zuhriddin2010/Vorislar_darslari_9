@@ -3,7 +3,7 @@
 # ismlar = ["elbek", "ixtiyor"]  # oddiy ro`yhat
 # familiyalar = ("karimboyev", "abdullayev")  # ozgarmas royhat
 
-# print("oddiy royhat",ismlar)
+# print("oddiy royhat",ismlar)                       
 # print("ozgarmas royhat",familiyalar)
 
 # ismlar.append("sardor")
