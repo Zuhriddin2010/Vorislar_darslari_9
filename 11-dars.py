@@ -1,6 +1,6 @@
 # ro`yhatlar
 
-# ismlar = ["elbek", "ixtiyor"]  # oddiy ro`yhat
+# ismlar = ["elbek", "ixtiyor"]  # oddiy ro`yhat                                      
 # familiyalar = ("karimboyev", "abdullayev")  # ozgarmas royhat
 
 # print("oddiy royhat",ismlar)                       
