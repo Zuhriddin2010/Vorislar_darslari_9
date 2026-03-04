@@ -105,7 +105,7 @@ for i in range(20):
           texture='grass.png', parent=scene, origin_y=0.5)
     boxes.append(box)
 
-def input(key):
+def input(key): 
   for box in boxes:
     if box.hovered:
       if key == 'left mouse down':
