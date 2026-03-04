@@ -1,16 +1,16 @@
 # bu cament 
-print("salom \n dunyo")
-print("salom dunyo 2")
+print("salom \n dunyo")                      
+print("salom dunyo 2")                      
 
-# Arifmetik amallar
-print(5+2)
+# Arifmetik amallar                    
+print(5+2)                                               
+                    
+# ayirish                   
+print(5-2)                    
 
-# ayirish
-print(5-2)
-
-# ko'paytirish
+# ko'paytirish                   
 print(5*2)
-
+                       
 # bo'lish
 print(5/2)
 
@@ -19,7 +19,7 @@ print(5//2)
 
 # darajaga ko'tarish
 print(5**2)
-
+                       
 # qoldiqni aniqlash
 print(5%2)
 
@@ -34,4 +34,7 @@ a = "salom"
 b = "dunyo"
 c = a + " " + b
 print(c)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3d17553a2f616227118bbb832014d9aeafdd756d

@@ -4,7 +4,7 @@
   metods(.sart())
     function(sum(), list(), max(), min())
     ro`yhatlardan nusha olish
-    Type() o`zgarmas royhat
+    Type() o`zgarmas royhat                            
  """
 
 # davlatlar = ['ozbekiston', 'aqsh', 'rossiya', 'xitoy', 'malayziya', 'singapur', 'korea', 'yaponiya']

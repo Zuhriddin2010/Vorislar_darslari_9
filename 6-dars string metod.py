@@ -1,7 +1,7 @@
 # ism = "umid"
 # familiya = "aliyev"
 # ochestva = "abrorovich"
-# FIO = f"assalomu alaykum {ism} {familiya} {ochestva}"
+# FIO = f"assalomu alaykum {ism} {familiya} {ochestva}"                                                               
 
 # print(FIO)
 # print(FIO.upper())  # Hammasini katta harfga o'zgartiradi
@@ -10,13 +10,20 @@
 # print(FIO.capitalize())  # Faqat birinchi harfni katta qiladi
 # print(FIO.replace("a", "o"))  # Matndagi barcha 'a'
 # # harflarini 'o' harfiga almashtiradi
-# print(FIO.find("umid"))  # Matnda 'umid' so'zining   
+# print(FIO.find("umid"))  # Matnda 'umid' so'zining      
 
 
+<<<<<<< HEAD
 # a = "    Hello World   assalomu alaykum " 
 #print(a.capitalize())
 #print(a.strip())
 # print(a.count("a"))  # Matnda nechta 'a' harfi borligini hisoblaydi
+=======
+# a = "    Hello World   assalomu alaykum    "
+# print(a.capitalize())
+# print(a.strip())      
+# print(a.count("a"))  # Matnda nechta 'a' harfi borligini hisoblaydi                
+>>>>>>> 3d17553a2f616227118bbb832014d9aeafdd756d
 # print(a.startswith("assalomu"))  # Matn 'assalomu' so'zi bilan boshlanadimi
 # print(a.endswith("ovich"))  # Matn 'ovich' so'zi bilan tugaydimi
 # print(a.find("World"))  # Matnda 'World' so'zining boshlanish indeksini qaytaradi
