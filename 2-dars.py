@@ -34,3 +34,4 @@ a = "salom"
 b = "dunyo"
 c = a + " " + b
 print(c)
+
