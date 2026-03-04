@@ -13,14 +13,14 @@
 # print(FIO.find("umid"))  # Matnda 'umid' so'zining   
 
 
-# a = "    Hello World   assalomu alaykum    "
-# print(a.capitalize())
-# print(a.strip())
+# a = "    Hello World   assalomu alaykum " 
+#print(a.capitalize())
+#print(a.strip())
 # print(a.count("a"))  # Matnda nechta 'a' harfi borligini hisoblaydi
 # print(a.startswith("assalomu"))  # Matn 'assalomu' so'zi bilan boshlanadimi
 # print(a.endswith("ovich"))  # Matn 'ovich' so'zi bilan tugaydimi
 # print(a.find("World"))  # Matnda 'World' so'zining boshlanish indeksini qaytaradi
-# # boshlanish indeksini qaytaradi
+#boshlanish indeksini qaytaradi
 # print(a.find("Hello"))  # Matnda 'Hello' so'zining boshlanish indeksini qaytaradi
 
 
