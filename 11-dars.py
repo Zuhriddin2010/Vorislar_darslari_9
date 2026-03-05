@@ -21,15 +21,15 @@
 # familiyalar = tuple(o_familiyalar)  # listni yana tuple ga aylantiramiz
 # print(familiyalar)
 
-davlatlar = ["amerika","aqsh","qozoqiston","kareya","uzb"]
-print(len(davlatlar))
+# davlatlar = ["amerika","aqsh","qozoqiston","kareya","uzb"]
+# print(len(davlatlar))
 
-sorted(davlatlar)
-print(davlatlar)
+# sorted(davlatlar)
+# print(davlatlar)
 
-davlatlar.reverse() # ro`yhatni ortidan boshlab chiqaradi
-print(davlatlar)
+# davlatlar.reverse() # ro`yhatni ortidan boshlab chiqaradi
+# print(davlatlar)
 
-print(davlatlar) #asl royhatni boshqatdan chiqaradi
+# print(davlatlar) #asl royhatni boshqatdan chiqaradi
 
-print(f"davlatlarning teskari tartiblanganini chiqradi : {sorted(davlatlar, reverse = True)}") # royhatni teskari tartibda chiqaradi
+# print(f"davlatlarning teskari tartiblanganini chiqradi : {sorted(davlatlar, reverse = True)}") # royhatni teskari tartibda chiqaradi

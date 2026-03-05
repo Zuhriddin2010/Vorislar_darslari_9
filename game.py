@@ -2,7 +2,6 @@
 
 # from turtle import *
 # import colorsys
-
 # bgcolor("black")
 # tracer(500)
 
@@ -163,29 +162,29 @@
 # t.done()
 
 #quiz
-def check_guess(guess, answer):
-    global score
-    still_guessing = True
-    attempt = 0
-    while still_guessing and attempt < 3:
-        if guess.lower() == answer.lower():
-            print("To'g'ri javob")
-            score = score + 1
-            still_guessing = False
-        else:
-            if attempt < 2:
-                guess = input("Kechirasiz, noto'g'ri javob, qayta urinib ko'ring  >>")
-            attempt = attempt + 1
-    if attempt == 3:
-        print("To'g'ri javob ",answer )
+# def check_guess(guess, answer):
+#     global score
+#     still_guessing = True
+#     attempt = 0
+#     while still_guessing and attempt < 3:
+#         if guess.lower() == answer.lower():
+#             print("To'g'ri javob")
+#             score = score + 1
+#             still_guessing = False
+#         else:
+#             if attempt < 2:
+#                 guess = input("Kechirasiz, noto'g'ri javob, qayta urinib ko'ring  >>")
+#             attempt = attempt + 1
+#     if attempt == 3:
+#         print("To'g'ri javob ",answer )
     
-score = 0
-print("Hayvonni taxmin qil")
-guess1 = input("Shimoliy Qutbda qaysi ayiqlar yashaydi? ")
-check_guess(guess1, "qutb ayiqi")
-guess2 = input("Eng tez yuruvchi hayvon qaysi? ")
-check_guess(guess2, "Chita")
-guess3 = input("Eng katta hayvon qaysi?  ")
-check_guess(guess3, "Ko`k Kit")
-print("Your Score is "+ str(score))
+# score = 0
+# print("Hayvonni taxmin qil")
+# guess1 = input("Shimoliy Qutbda qaysi ayiqlar yashaydi? ")
+# check_guess(guess1, "qutb ayiqi")
+# guess2 = input("Eng tez yuruvchi hayvon qaysi? ")
+# check_guess(guess2, "Chita")
+# guess3 = input("Eng katta hayvon qaysi?  ")
+# check_guess(guess3, "Ko`k Kit")
+# print("Your Score is "+ str(score))
 
