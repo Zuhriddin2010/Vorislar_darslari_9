@@ -8,7 +8,7 @@
 # print(FIO.lower())  # Hammasini kichik harfga o'zgartiradi
 # print(FIO.title())  # Har bir so'zning birinchi harfini katta qiladi        
 # print(FIO.capitalize())  # Faqat birinchi harfni katta qiladi
-# print(FIO.replace("a", "o"))  # Matndagi barcha 'a'
+# print(FIO.replace("a", "o"))  # Matndagi barcha 'a'  
 # # harflarini 'o' harfiga almashtiradi
 # print(FIO.find("umid"))  # Matnda 'umid' so'zining      
 
