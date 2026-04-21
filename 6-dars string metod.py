@@ -3,7 +3,7 @@
 # ochestva = "abrorovich"
 # FIO = f"assalomu alaykum {ism} {familiya} {ochestva}"                                                                   
 
-# print(FIO)
+# print(FIO)  
 # print(FIO.upper())  # Hammasini katta harfga o'zgartiradi
 # print(FIO.lower())  # Hammasini kichik harfga o'zgartiradi
 # print(FIO.title())  # Har bir so'zning birinchi harfini katta qiladi        
